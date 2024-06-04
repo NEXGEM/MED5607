@@ -1,0 +1,469 @@
+      1 Autoimmune/Inflammation: Transplantation/GVHD; Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Myelodysplastic Syndrome; Oncology: Myeloproliferative Neoplasms	None
+      1 Oncology: (N/A); Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Bladder; Oncology: Breast; Oncology: Cervical; Oncology: CNS, Glioblastoma; Oncology: Colorectal; Oncology: Endometrial; Oncology: Esophageal; Oncology: Gallbladder; Oncology: Gastric; Oncology: Head/Neck; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Melanoma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate; Oncology: Renal; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: (N/A); Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Breast; Oncology: Endometrial; Oncology: Head/Neck; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Soft Tissue Sarcoma; Oncology: Testicular	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: (N/A); Oncology: Bladder; Oncology: Breast; Oncology: Cervical; Oncology: Colorectal; Oncology: Endometrial; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Mesothelioma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Renal; Oncology: Unspecified Solid Tumor	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: (N/A); Oncology: Bladder; Oncology: Renal	Completed, Outcome indeterminate
+      1 Oncology: (N/A); Oncology: Breast; Oncology: Cervical; Oncology: Colorectal; Oncology: Endometrial; Oncology: Esophageal; Oncology: GIST; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Melanoma; Oncology: Mesothelioma; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Pancreas; Oncology: Renal; Oncology: Unspecified Solid Tumor	Completed, Outcome indeterminate
+      1 Oncology: (N/A); Oncology: Breast; Oncology: Colorectal; Oncology: Esophageal; Oncology: Gastric; Oncology: Melanoma; Oncology: Ovarian; Oncology: Testicular; Oncology: Unspecified Solid Tumor	Completed, Outcome indeterminate
+      1 Oncology: (N/A); Oncology: Breast; Oncology: Fallopian Tube; Oncology: Ovarian	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: (N/A); Oncology: Breast; Oncology: Gastric; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Prostate	Completed, Outcome unknown
+      1 Oncology: (N/A); Oncology: Colorectal	None
+      1 Oncology: (N/A); Oncology: Fallopian Tube; Oncology: Ovarian	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: (N/A); Oncology: Fallopian Tube; Oncology: Ovarian	None
+      1 Oncology: (N/A); Oncology: Leukemia, Acute Myelogenous; Oncology: Myelodysplastic Syndrome	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: (N/A); Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: (N/A); Oncology: Lung, Small Cell; Oncology: Melanoma	Terminated, Lack of efficacy
+      1 Oncology: (N/A); Oncology: Lymphoma, Non-Hodgkin's	Terminated, Planned but never initiated; Terminated, Unknown
+      1 Oncology: (N/A); Oncology: Myelodysplastic Syndrome	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: (N/A); Oncology: Myelodysplastic Syndrome	Completed, Positive outcome/primary endpoint(s) met
+      2 Oncology: (N/A); Oncology: Myelodysplastic Syndrome	None
+      1 Oncology: (N/A); Oncology: Ovarian	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: (N/A); Oncology: Renal	None
+      1 Oncology: Anal; Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Bladder; Oncology: Breast; Oncology: Cervical; Oncology: CNS, Glioblastoma; Oncology: Colorectal; Oncology: Endometrial; Oncology: Esophageal; Oncology: Fallopian Tube; Oncology: Gallbladder; Oncology: Gastric; Oncology: Head/Neck; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Melanoma; Oncology: Multiple Myeloma; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate; Oncology: Renal; Oncology: Skin, Basal Cell Carcinoma; Oncology: Thyroid; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Anal; Oncology: Bladder; Oncology: Breast; Oncology: Esophageal; Oncology: Gastric; Oncology: Melanoma; Oncology: Renal	Completed, Outcome indeterminate
+      1 Oncology: Anal; Oncology: Bladder; Oncology: Cervical; Oncology: Colorectal; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Pancreas; Oncology: Penile; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor; Oncology: Vaginal; Oncology: Vulvar	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Anal; Oncology: Breast; Oncology: Colorectal; Oncology: Esophageal; Oncology: Lung, Non-Small Cell; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Anal; Oncology: Breast; Oncology: Colorectal; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Ovarian; Oncology: Prostate	Completed, Outcome unknown
+      1 Oncology: Anal; Oncology: CNS, Other; Oncology: Colorectal; Oncology: Head/Neck; Oncology: Leukemia, Acute Myelogenous; Oncology: Lung, Non-Small Cell; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate; Oncology: Unspecified Solid Tumor	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Bile Duct (Cholangiocarcinoma)	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Bladder; Oncology: Breast; Oncology: CNS, Glioblastoma; Oncology: CNS, Other; Oncology: Colorectal; Oncology: Endometrial; Oncology: GIST; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Multiple Myeloma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate; Oncology: Renal; Oncology: Soft Tissue Sarcoma	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Bladder; Oncology: Breast; Oncology: Cervical; Oncology: CNS, Glioblastoma; Oncology: CNS, Medulloblastoma; Oncology: CNS, Other; Oncology: Colorectal; Oncology: Endometrial; Oncology: Gastric; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Melanoma; Oncology: Mesothelioma; Oncology: Osteosarcoma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Renal; Oncology: Skin, Basal Cell Carcinoma; Oncology: Soft Tissue Sarcoma; Oncology: Testicular	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Bladder; Oncology: Breast; Oncology: Cervical; Oncology: Colorectal; Oncology: Endometrial; Oncology: Gastric; Oncology: Liver; Oncology: Mesothelioma; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Soft Tissue Sarcoma	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Bladder; Oncology: Breast; Oncology: Cervical; Oncology: Endometrial; Oncology: Esophageal; Oncology: Gastric; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Mesothelioma; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Penile; Oncology: Renal	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Bladder; Oncology: Breast; Oncology: Colorectal; Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Gastric; Oncology: GIST; Oncology: Head/Neck; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Melanoma; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate; Oncology: Renal	Completed, Outcome indeterminate
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Bladder; Oncology: Breast; Oncology: Colorectal; Oncology: Endometrial; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Prostate	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Bladder; Oncology: Breast; Oncology: Colorectal; Oncology: Esophageal; Oncology: Gallbladder; Oncology: Gastric; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Metastatic Cancer; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Pancreas; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Bladder; Oncology: Breast; Oncology: Gastric; Oncology: Head/Neck; Oncology: Liver; Oncology: Neuroendocrine; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Renal; Oncology: Testicular	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Bladder; Oncology: Breast; Oncology: Head/Neck; Oncology: Liver; Oncology: Ovarian; Oncology: Prostate; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Bladder; Oncology: Esophageal; Oncology: Gastric; Oncology: Head/Neck; Oncology: Renal; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Bladder; Oncology: Osteosarcoma; Oncology: Ovarian; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Breast; Oncology: CNS, Glioblastoma; Oncology: Fallopian Tube; Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Multiple Myeloma; Oncology: Myelodysplastic Syndrome; Oncology: Myeloproliferative Neoplasms; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Hematological Cancer; Oncology: Unspecified Solid Tumor	Terminated, Safety/adverse effects
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Breast; Oncology: Cervical; Oncology: Colorectal; Oncology: Gallbladder; Oncology: Gastric; Oncology: Lung, Non-Small Cell; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Melanoma; Oncology: Mesothelioma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	Completed, Outcome indeterminate
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Breast; Oncology: Colorectal; Oncology: Gallbladder; Oncology: Lung, Non-Small Cell; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Multiple Myeloma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Breast; Oncology: Colorectal; Oncology: Gastric; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Pancreas	Terminated, Unknown
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Breast; Oncology: Colorectal; Oncology: Head/Neck; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Unspecified Cancer	Completed, Outcome unknown
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Breast; Oncology: Gastric; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate; Oncology: Renal; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Breast; Oncology: Gastric; Oncology: Pancreas	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Cervical; Oncology: CNS, Glioblastoma; Oncology: Colorectal; Oncology: Esophageal; Oncology: Gastric; Oncology: Lung, Non-Small Cell; Oncology: Lymphoma, Hodgkin's; Oncology: Melanoma; Oncology: Pancreas	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Colorectal; Oncology: Esophageal; Oncology: Gastric; Oncology: Pancreas	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: GIST; Oncology: Liver; Oncology: Pancreas	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Gallbladder	None
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Gallbladder	Terminated, Planned but never initiated; Terminated, Unknown
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Melanoma; Oncology: Pancreas	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Bile Duct (Cholangiocarcinoma); Oncology: Ovarian; Oncology: Renal; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Cervical; Oncology: CNS, Glioblastoma; Oncology: Colorectal; Oncology: Endometrial; Oncology: Gastric; Oncology: Head/Neck; Oncology: Liver; Oncology: Melanoma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Soft Tissue Sarcoma; Oncology: Thyroid; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Cervical; Oncology: Colorectal; Oncology: Endometrial; Oncology: Esophageal; Oncology: Fallopian Tube; Oncology: Gastric; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Renal; Oncology: Unspecified Solid Tumor	Completed, Outcome indeterminate
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Cervical; Oncology: Colorectal; Oncology: Endometrial; Oncology: Esophageal; Oncology: Gastric; Oncology: GIST; Oncology: Head/Neck; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Melanoma; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate; Oncology: Renal; Oncology: Thyroid; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Cervical; Oncology: Colorectal; Oncology: Endometrial; Oncology: Esophageal; Oncology: Gastric; Oncology: Head/Neck; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Melanoma; Oncology: Mesothelioma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate; Oncology: Renal; Oncology: Soft Tissue Sarcoma; Oncology: Testicular; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Colorectal; Oncology: Endometrial; Oncology: Esophageal; Oncology: Gastric; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Ovarian; Oncology: Prostate; Oncology: Renal; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Colorectal; Oncology: Endometrial; Oncology: Esophageal; Oncology: Gastric; Oncology: Lung, Non-Small Cell; Oncology: Mesothelioma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Renal; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Colorectal; Oncology: Esophageal; Oncology: Fallopian Tube; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Prostate	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Colorectal; Oncology: Esophageal; Oncology: Gastric; Oncology: Liver; Oncology: Pancreas; Oncology: Renal; Oncology: Unspecified Solid Tumor	Terminated, Lack of efficacy; Terminated, Poor enrollment
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Colorectal; Oncology: Gastric; Oncology: GIST; Oncology: Head/Neck; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Mesothelioma; Oncology: Osteosarcoma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate; Oncology: Soft Tissue Sarcoma	None
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Colorectal; Oncology: Head/Neck; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Melanoma; Oncology: Mesothelioma; Oncology: Metastatic Cancer; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Colorectal; Oncology: Head/Neck; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Colorectal; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Ovarian; Oncology: Prostate; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Endometrial; Oncology: GIST; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Ovarian; Oncology: Prostate; Oncology: Unspecified Cancer	Terminated, Other; Terminated, Planned but never initiated
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Gastric; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Melanoma; Oncology: Ovarian; Oncology: Renal	Completed, Outcome unknown
+      1 Oncology: Bladder; Oncology: Breast; Oncology: Lung, Non-Small Cell; Oncology: Ovarian; Oncology: Prostate; Oncology: Renal; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bladder; Oncology: Cervical; Oncology: CNS, Glioblastoma; Oncology: Colorectal; Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Melanoma; Oncology: Metastatic Cancer; Oncology: Osteosarcoma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Soft Tissue Sarcoma	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Bladder; Oncology: Colorectal; Oncology: Gastric; Oncology: Head/Neck; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Melanoma; Oncology: Mesothelioma; Oncology: Multiple Myeloma; Oncology: Ovarian; Oncology: Prostate; Oncology: Renal	Completed, Outcome unknown
+      1 Oncology: Bladder; Oncology: Colorectal; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Melanoma; Oncology: Neuroendocrine; Oncology: Pancreas; Oncology: Renal; Oncology: Unspecified Solid Tumor	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: Bladder; Oncology: Esophageal; Oncology: Gastric; Oncology: Lung, Non-Small Cell; Oncology: Prostate; Oncology: Renal; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bladder; Oncology: Head/Neck	None
+      1 Oncology: Bladder; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Pancreas; Oncology: Renal	Terminated, Unknown
+      1 Oncology: Bladder; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Prostate; Oncology: Renal; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bladder; Oncology: Pancreas; Oncology: Renal; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Bladder; Oncology: Renal	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: Bladder; Oncology: Renal	Completed, Outcome unknown
+      4 Oncology: Bladder; Oncology: Renal	None
+      1 Oncology: Bladder; Oncology: Renal	Terminated, Lack of efficacy
+      4 Oncology: Breast	Completed, Early positive outcome
+      9 Oncology: Breast	Completed, Negative outcome/primary endpoint(s) not met
+      2 Oncology: Breast	Completed, Outcome indeterminate
+      9 Oncology: Breast	Completed, Outcome unknown
+     16 Oncology: Breast	Completed, Positive outcome/primary endpoint(s) met
+     72 Oncology: Breast	None
+      2 Oncology: Breast	Terminated, Business decision - Drug strategy shift
+      1 Oncology: Breast	Terminated, Business decision - Drug strategy shift; Terminated, Planned but never initiated
+      1 Oncology: Breast	Terminated, Business decision - Pipeline reprioritization; Terminated, Planned but never initiated
+      1 Oncology: Breast	Terminated, Lack of efficacy
+      1 Oncology: Breast	Terminated, Lack of funding; Terminated, Planned but never initiated
+      4 Oncology: Breast	Terminated, Planned but never initiated; Terminated, Unknown
+      2 Oncology: Breast	Terminated, Poor enrollment
+      1 Oncology: Breast	Terminated, Safety/adverse effects
+      2 Oncology: Breast	Terminated, Unknown
+      1 Oncology: Breast; Oncology: CNS, Glioblastoma; Oncology: Colorectal; Oncology: Lung, Non-Small Cell; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Melanoma; Oncology: Ovarian	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Cervical; Oncology: CNS, Other; Oncology: Colorectal; Oncology: Endometrial; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Ovarian	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Cervical; Oncology: Colorectal; Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Prostate	None
+      1 Oncology: Breast; Oncology: Cervical; Oncology: Colorectal; Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Cervical; Oncology: Colorectal; Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Lung, Non-Small Cell; Oncology: Melanoma; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Renal; Oncology: Unspecified Solid Tumor; Oncology: Vaginal	None
+      1 Oncology: Breast; Oncology: Cervical; Oncology: Colorectal; Oncology: Esophageal; Oncology: Gastric; Oncology: Head/Neck; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Osteosarcoma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Renal; Oncology: Soft Tissue Sarcoma	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Cervical; Oncology: Colorectal; Oncology: Esophageal; Oncology: Gastric; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Mesothelioma; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Prostate	None
+      1 Oncology: Breast; Oncology: Cervical; Oncology: Colorectal; Oncology: Esophageal; Oncology: Gastric; Oncology: Lung, Non-Small Cell; Oncology: Ovarian; Oncology: Pancreas; Oncology: Renal	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Cervical; Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Soft Tissue Sarcoma	None
+      1 Oncology: Breast; Oncology: Cervical; Oncology: Endometrial; Oncology: Ovarian	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Cervical; Oncology: Gastric; Oncology: Lung, Non-Small Cell; Oncology: Ovarian; Oncology: Prostate	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Cervical; Oncology: Ovarian; Oncology: Primary Peritoneal	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Endometrial; Oncology: Esophageal; Oncology: Gastric; Oncology: Liver; Oncology: Metastatic Cancer; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Leukemia, Chronic Lymphocytic; Oncology: Lung, Non-Small Cell; Oncology: Melanoma; Oncology: Osteosarcoma; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Soft Tissue Sarcoma	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Melanoma; Oncology: Mesothelioma; Oncology: Osteosarcoma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Renal; Oncology: Soft Tissue Sarcoma	None
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Esophageal; Oncology: Gastric; Oncology: Lung, Non-Small Cell; Oncology: Pancreas; Oncology: Prostate; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Esophageal; Oncology: Lung, Non-Small Cell; Oncology: Melanoma; Oncology: Renal	None
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Esophageal; Oncology: Melanoma; Oncology: Ovarian	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Gastric; Oncology: Lung, Non-Small Cell; Oncology: Ovarian	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Gastric; Oncology: Ovarian; Oncology: Pancreas	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Head/Neck; Oncology: Pancreas; Oncology: Testicular	None
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Leukemia, Chronic Lymphocytic; Oncology: Lung, Non-Small Cell; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Melanoma; Oncology: Mesothelioma; Oncology: Ovarian; Oncology: Pancreas	Completed, Outcome indeterminate
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Leukemia, Chronic Lymphocytic; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Melanoma; Oncology: Osteosarcoma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Soft Tissue Sarcoma	None
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Lung, Non-Small Cell	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Lung, Non-Small Cell; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate	Terminated, Unknown
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Lung, Non-Small Cell; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Colorectal; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Soft Tissue Sarcoma	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Renal	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	None
+      1 Oncology: Breast; Oncology: Endometrial; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Unspecified Solid Tumor	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Endometrial; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Endometrial; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Thyroid; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Endometrial; Oncology: Ovarian; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Endometrial; Oncology: Ovarian; Oncology: Unspecified Solid Tumor	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Esophageal; Oncology: Head/Neck; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Ovarian; Oncology: Pancreas; Oncology: Unspecified Solid Tumor	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Liver; Oncology: Melanoma; Oncology: Ovarian; Oncology: Primary Peritoneal	None
+      1 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Melanoma; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Renal; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Unspecified Solid Tumor	Completed, Outcome indeterminate
+      1 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Ovarian; Oncology: Primary Peritoneal	Terminated, Other; Terminated, Poor enrollment
+      1 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal	None
+      1 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Completed, Outcome indeterminate
+      2 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Completed, Outcome unknown
+      2 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Completed, Positive outcome/primary endpoint(s) met
+      5 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	None
+      1 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Terminated, Planned but never initiated; Terminated, Unknown
+      1 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Terminated, Unknown
+      1 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Prostate	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Prostate	None
+      1 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Gallbladder; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate	None
+      1 Oncology: Breast; Oncology: Gastric; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Mesothelioma; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate	Terminated, Other; Terminated, Planned but never initiated
+      1 Oncology: Breast; Oncology: Gastric; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Gastric; Oncology: Lung, Non-Small Cell; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Gastric; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Prostate	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Gastric; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Prostate; Oncology: Unspecified Solid Tumor	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Head/Neck; Oncology: Ovarian; Oncology: Renal; Oncology: Soft Tissue Sarcoma; Oncology: Thyroid; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous; Oncology: Leukemia, Chronic Lymphocytic; Oncology: Leukemia, Chronic Myelogenous; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Multiple Myeloma; Oncology: Myelodysplastic Syndrome; Oncology: Myeloproliferative Neoplasms; Oncology: Pancreas; Oncology: Prostate	None
+      1 Oncology: Breast; Oncology: Liver; Oncology: Lung, Non-Small Cell; Oncology: Ovarian; Oncology: Prostate; Oncology: Skin, Basal Cell Carcinoma	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Lung, Non-Small Cell	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Pancreas	None
+      1 Oncology: Breast; Oncology: Lung, Non-Small Cell; Oncology: Osteosarcoma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Renal; Oncology: Soft Tissue Sarcoma	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Lung, Non-Small Cell; Oncology: Ovarian	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Ovarian	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal; Oncology: Prostate	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Pancreas; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Melanoma; Oncology: Ovarian	Completed, Outcome indeterminate
+      1 Oncology: Breast; Oncology: Metastatic Cancer	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: Breast; Oncology: Metastatic Cancer	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Metastatic Cancer	None
+      1 Oncology: Breast; Oncology: Metastatic Cancer; Oncology: Ovarian; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Ovarian	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: Breast; Oncology: Ovarian	Completed, Outcome unknown
+      1 Oncology: Breast; Oncology: Ovarian	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Ovarian	None
+      2 Oncology: Breast; Oncology: Ovarian	Terminated, Lack of funding; Terminated, Planned but never initiated
+      1 Oncology: Breast; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Breast; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate	None
+      2 Oncology: Breast; Oncology: Ovarian; Oncology: Pancreas; Oncology: Prostate; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Ovarian; Oncology: Prostate; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Prostate	None
+      1 Oncology: Breast; Oncology: Prostate; Oncology: Thymus; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      2 Oncology: Breast; Oncology: Unspecified Solid Tumor	Completed, Positive outcome/primary endpoint(s) met
+      2 Oncology: Breast; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Breast; Oncology: Unspecified Solid Tumor	Terminated, Business decision - Pipeline reprioritization; Terminated, Planned but never initiated
+      2 Oncology: CNS, Glioblastoma	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: CNS, Glioblastoma	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: CNS, Glioblastoma	None
+      1 Oncology: CNS, Glioblastoma; Oncology: CNS, Medulloblastoma; Oncology: CNS, Other	None
+      1 Oncology: CNS, Glioblastoma; Oncology: CNS, Medulloblastoma; Oncology: CNS, Other; Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous; Oncology: Leukemia, Chronic Lymphocytic; Oncology: Leukemia, Chronic Myelogenous; Oncology: Neuroblastoma; Oncology: Osteosarcoma; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Hematological Cancer; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: CNS, Glioblastoma; Oncology: CNS, Medulloblastoma; Oncology: CNS, Other; Oncology: Liver; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Neuroblastoma; Oncology: Osteosarcoma; Oncology: Ovarian; Oncology: Renal; Oncology: Soft Tissue Sarcoma; Oncology: Testicular; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: CNS, Glioblastoma; Oncology: CNS, Medulloblastoma; Oncology: CNS, Other; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Unspecified Solid Tumor	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: CNS, Glioblastoma; Oncology: CNS, Medulloblastoma; Oncology: CNS, Other; Oncology: Neuroblastoma	None
+      1 Oncology: CNS, Glioblastoma; Oncology: CNS, Medulloblastoma; Oncology: CNS, Other; Oncology: Neuroblastoma; Oncology: Osteosarcoma; Oncology: Renal; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      1 Oncology: CNS, Glioblastoma; Oncology: CNS, Medulloblastoma; Oncology: CNS, Other; Oncology: Osteosarcoma; Oncology: Renal; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: CNS, Glioblastoma; Oncology: CNS, Medulloblastoma; Oncology: Neuroblastoma; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: CNS, Glioblastoma; Oncology: CNS, Other	None
+      1 Oncology: CNS, Glioblastoma; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: CNS, Glioblastoma; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Multiple Myeloma; Oncology: Ovarian; Oncology: Prostate; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: CNS, Glioblastoma; Oncology: Soft Tissue Sarcoma	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: CNS, Glioblastoma; Oncology: Soft Tissue Sarcoma	None
+      1 Oncology: CNS, Glioblastoma; Oncology: Soft Tissue Sarcoma	Terminated, Lack of efficacy
+      1 Oncology: CNS, Medulloblastoma	None
+      1 Oncology: CNS, Other; Oncology: Osteosarcoma; Oncology: Renal; Oncology: Soft Tissue Sarcoma	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: CNS, Other; Oncology: Soft Tissue Sarcoma	None
+      1 Oncology: Cervical	Completed, Outcome unknown
+      2 Oncology: Cervical	None
+      1 Oncology: Cervical	Terminated, Unknown
+      1 Oncology: Cervical; Oncology: Colorectal; Oncology: Melanoma; Oncology: Ovarian	None
+      1 Oncology: Cervical; Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Ovarian	None
+      1 Oncology: Cervical; Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Unspecified Solid Tumor; Oncology: Vaginal; Oncology: Vulvar	None
+      1 Oncology: Cervical; Oncology: Esophageal; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Ovarian	None
+      2 Oncology: Colorectal	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: Colorectal	Completed, Outcome indeterminate
+      7 Oncology: Colorectal	Completed, Outcome unknown
+     12 Oncology: Colorectal	Completed, Positive outcome/primary endpoint(s) met
+     26 Oncology: Colorectal	None
+      1 Oncology: Colorectal	Terminated, Other
+      1 Oncology: Colorectal	Terminated, Other; Terminated, Poor enrollment
+      1 Oncology: Colorectal	Terminated, Safety/adverse effects
+      2 Oncology: Colorectal	Terminated, Unknown
+      1 Oncology: Colorectal; Oncology: Endometrial; Oncology: Esophageal; Oncology: Leukemia, Chronic Lymphocytic; Oncology: Liver; Oncology: Lung, Small Cell; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Melanoma; Oncology: Mesothelioma; Oncology: Ovarian; Oncology: Pancreas; Oncology: Soft Tissue Sarcoma; Oncology: Thyroid	None
+      1 Oncology: Colorectal; Oncology: Endometrial; Oncology: Lung, Non-Small Cell; Oncology: Ovarian; Oncology: Pancreas; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Colorectal; Oncology: Esophageal; Oncology: GIST; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Colorectal; Oncology: Esophageal; Oncology: Gastric	None
+      1 Oncology: Colorectal; Oncology: Gastric; Oncology: Lung, Non-Small Cell; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Colorectal; Oncology: Gastric; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Melanoma; Oncology: Soft Tissue Sarcoma	None
+      1 Oncology: Colorectal; Oncology: Gastric; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      1 Oncology: Colorectal; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell	None
+      2 Oncology: Colorectal; Oncology: Head/Neck; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Colorectal; Oncology: Lung, Non-Small Cell	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: Colorectal; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell	Terminated, Business decision - Other
+      1 Oncology: Colorectal; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Pancreas; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Colorectal; Oncology: Lung, Non-Small Cell; Oncology: Melanoma; Oncology: Pancreas	None
+      1 Oncology: Colorectal; Oncology: Lung, Non-Small Cell; Oncology: Melanoma; Oncology: Pancreas; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Colorectal; Oncology: Lung, Non-Small Cell; Oncology: Pancreas	Completed, Outcome unknown
+      2 Oncology: Colorectal; Oncology: Lung, Non-Small Cell; Oncology: Pancreas	None
+      1 Oncology: Colorectal; Oncology: Lung, Non-Small Cell; Oncology: Pancreas; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      1 Oncology: Colorectal; Oncology: Lung, Non-Small Cell; Oncology: Unspecified Cancer	Completed, Outcome unknown
+      2 Oncology: Colorectal; Oncology: Lung, Non-Small Cell; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Colorectal; Oncology: Lung, Small Cell; Oncology: Melanoma; Oncology: Mesothelioma; Oncology: Ovarian	Terminated, Business decision - Pipeline reprioritization
+      1 Oncology: Colorectal; Oncology: Melanoma	Terminated, Unknown
+      1 Oncology: Colorectal; Oncology: Melanoma; Oncology: Thyroid; Oncology: Unspecified Solid Tumor	Completed, Outcome indeterminate
+      1 Oncology: Colorectal; Oncology: Metastatic Cancer	None
+      1 Oncology: Colorectal; Oncology: Pancreas; Oncology: Soft Tissue Sarcoma	None
+      1 Oncology: Colorectal; Oncology: Pancreas; Oncology: Unspecified Solid Tumor	Terminated, Business decision - Other
+      1 Oncology: Colorectal; Oncology: Supportive Care	Terminated, Poor enrollment
+      1 Oncology: Colorectal; Oncology: Unspecified Solid Tumor	Terminated, Safety/adverse effects
+      2 Oncology: Endometrial	Completed, Outcome unknown
+      3 Oncology: Endometrial	Completed, Positive outcome/primary endpoint(s) met
+      9 Oncology: Endometrial	None
+      1 Oncology: Endometrial	Terminated, Business decision - Other
+      1 Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Completed, Positive outcome/primary endpoint(s) met
+      8 Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	None
+      1 Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Terminated, Planned but never initiated; Terminated, Unknown
+      1 Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Soft Tissue Sarcoma	Completed, Outcome unknown
+      1 Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Soft Tissue Sarcoma	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Endometrial; Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Soft Tissue Sarcoma	None
+      1 Oncology: Endometrial; Oncology: Ovarian; Oncology: Soft Tissue Sarcoma	None
+      1 Oncology: Endometrial; Oncology: Prostate	Terminated, Lack of efficacy
+      1 Oncology: Esophageal; Oncology: Gastric	Completed, Negative outcome/primary endpoint(s) not met
+      6 Oncology: Esophageal; Oncology: Gastric	None
+      1 Oncology: Esophageal; Oncology: Gastric	Terminated, Unknown
+      1 Oncology: Esophageal; Oncology: Gastric; Oncology: Melanoma	None
+      1 Oncology: Esophageal; Oncology: Head/Neck; Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Mesothelioma; Oncology: Neuroendocrine; Oncology: Ovarian; Oncology: Pancreas; Oncology: Soft Tissue Sarcoma; Oncology: Thymus	None
+      1 Oncology: Fallopian Tube; Oncology: Gastric; Oncology: Metastatic Cancer; Oncology: Ovarian; Oncology: Pancreas; Oncology: Primary Peritoneal	None
+      1 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Completed, Early positive outcome
+      5 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Completed, Negative outcome/primary endpoint(s) not met
+      7 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Completed, Outcome indeterminate
+      6 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Completed, Outcome unknown
+     27 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Completed, Positive outcome/primary endpoint(s) met
+     54 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	None
+      2 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Terminated, Business decision - Other
+      2 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Terminated, Business decision - Other; Terminated, Planned but never initiated
+      1 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Terminated, Lack of funding; Terminated, Planned but never initiated
+      2 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Terminated, Other
+      1 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Terminated, Other; Terminated, Planned but never initiated
+      3 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Terminated, Planned but never initiated; Terminated, Unknown
+      2 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal	Terminated, Poor enrollment
+      1 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Primary Peritoneal; Oncology: Soft Tissue Sarcoma	None
+      1 Oncology: Fallopian Tube; Oncology: Ovarian; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      2 Oncology: Gastric	Completed, Negative outcome/primary endpoint(s) not met
+      5 Oncology: Gastric	None
+      1 Oncology: Head/Neck	Completed, Outcome unknown
+      3 Oncology: Head/Neck	Completed, Positive outcome/primary endpoint(s) met
+      7 Oncology: Head/Neck	None
+      1 Oncology: Head/Neck	Terminated, Business decision - Other; Terminated, Planned but never initiated
+      1 Oncology: Head/Neck; Oncology: Prostate	Terminated, Business decision - Other
+      1 Oncology: Leukemia, Acute Lymphocytic	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: Leukemia, Acute Lymphocytic	Completed, Positive outcome/primary endpoint(s) met
+      8 Oncology: Leukemia, Acute Lymphocytic	None
+      1 Oncology: Leukemia, Acute Lymphocytic	Terminated, Business decision - Pipeline reprioritization
+      1 Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous	Completed, Outcome unknown
+      1 Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous	Terminated, Other; Terminated, Safety/adverse effects
+      1 Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous	Terminated, Unknown
+      1 Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous; Oncology: Leukemia, Chronic Lymphocytic; Oncology: Leukemia, Chronic Myelogenous; Oncology: Unspecified Solid Tumor	Terminated, Business decision - Other
+      1 Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous; Oncology: Leukemia, Chronic Lymphocytic; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Multiple Myeloma; Oncology: Myelodysplastic Syndrome	None
+      1 Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous; Oncology: Leukemia, Chronic Myelogenous	None
+      1 Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous; Oncology: Leukemia, Chronic Myelogenous; Oncology: Myelodysplastic Syndrome	Completed, Outcome unknown
+      1 Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous; Oncology: Leukemia, Chronic Myelogenous; Oncology: Myelodysplastic Syndrome	Terminated, Unknown
+      1 Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Myelodysplastic Syndrome	None
+      1 Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Neuroblastoma	None
+      2 Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Acute Myelogenous; Oncology: Myelodysplastic Syndrome	None
+      2 Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Chronic Lymphocytic; Oncology: Lymphoma, Non-Hodgkin's	Completed, Outcome unknown
+      2 Oncology: Leukemia, Acute Lymphocytic; Oncology: Leukemia, Chronic Myelogenous	None
+      2 Oncology: Leukemia, Acute Lymphocytic; Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's	None
+      2 Oncology: Leukemia, Acute Lymphocytic; Oncology: Lymphoma, Non-Hodgkin's	Completed, Outcome indeterminate
+      1 Oncology: Leukemia, Acute Lymphocytic; Oncology: Lymphoma, Non-Hodgkin's	Completed, Positive outcome/primary endpoint(s) met
+      4 Oncology: Leukemia, Acute Lymphocytic; Oncology: Lymphoma, Non-Hodgkin's	None
+      2 Oncology: Leukemia, Acute Lymphocytic; Oncology: Lymphoma, Non-Hodgkin's	Terminated, Poor enrollment
+      3 Oncology: Leukemia, Acute Myelogenous	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: Leukemia, Acute Myelogenous	Completed, Outcome indeterminate
+      3 Oncology: Leukemia, Acute Myelogenous	Completed, Positive outcome/primary endpoint(s) met
+     17 Oncology: Leukemia, Acute Myelogenous	None
+      2 Oncology: Leukemia, Acute Myelogenous	Terminated, Lack of efficacy
+      1 Oncology: Leukemia, Acute Myelogenous	Terminated, Planned but never initiated; Terminated, Unknown
+      1 Oncology: Leukemia, Acute Myelogenous; Oncology: Leukemia, Chronic Myelogenous; Oncology: Myelodysplastic Syndrome; Oncology: Myeloproliferative Neoplasms	None
+      1 Oncology: Leukemia, Acute Myelogenous; Oncology: Myelodysplastic Syndrome	Completed, Outcome indeterminate
+      2 Oncology: Leukemia, Acute Myelogenous; Oncology: Myelodysplastic Syndrome	Completed, Positive outcome/primary endpoint(s) met
+     14 Oncology: Leukemia, Acute Myelogenous; Oncology: Myelodysplastic Syndrome	None
+      1 Oncology: Leukemia, Acute Myelogenous; Oncology: Myelodysplastic Syndrome	Terminated, Business decision - Other
+      1 Oncology: Leukemia, Acute Myelogenous; Oncology: Myelodysplastic Syndrome	Terminated, Planned but never initiated; Terminated, Unknown
+      1 Oncology: Leukemia, Acute Myelogenous; Oncology: Myelodysplastic Syndrome	Terminated, Safety/adverse effects
+      1 Oncology: Leukemia, Acute Myelogenous; Oncology: Myelodysplastic Syndrome; Oncology: Myeloproliferative Neoplasms	Completed, Outcome unknown
+      4 Oncology: Leukemia, Acute Myelogenous; Oncology: Myelodysplastic Syndrome; Oncology: Myeloproliferative Neoplasms	None
+      1 Oncology: Leukemia, Acute Myelogenous; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      1 Oncology: Leukemia, Chronic Lymphocytic	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: Leukemia, Chronic Lymphocytic	Completed, Outcome unknown
+      2 Oncology: Leukemia, Chronic Lymphocytic	Completed, Positive outcome/primary endpoint(s) met
+     16 Oncology: Leukemia, Chronic Lymphocytic	None
+      1 Oncology: Leukemia, Chronic Lymphocytic	Terminated, Other
+      1 Oncology: Leukemia, Chronic Lymphocytic; Oncology: Lymphoma, Non-Hodgkin's	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: Leukemia, Chronic Lymphocytic; Oncology: Lymphoma, Non-Hodgkin's	Completed, Outcome indeterminate
+      2 Oncology: Leukemia, Chronic Lymphocytic; Oncology: Lymphoma, Non-Hodgkin's	Completed, Outcome unknown
+      4 Oncology: Leukemia, Chronic Lymphocytic; Oncology: Lymphoma, Non-Hodgkin's	Completed, Positive outcome/primary endpoint(s) met
+     25 Oncology: Leukemia, Chronic Lymphocytic; Oncology: Lymphoma, Non-Hodgkin's	None
+      1 Oncology: Leukemia, Chronic Lymphocytic; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Melanoma	None
+      1 Oncology: Liver	Completed, Outcome indeterminate
+      1 Oncology: Liver	Terminated, Lack of efficacy
+     11 Oncology: Lung, Non-Small Cell	Completed, Negative outcome/primary endpoint(s) not met
+      2 Oncology: Lung, Non-Small Cell	Completed, Outcome indeterminate
+      5 Oncology: Lung, Non-Small Cell	Completed, Outcome unknown
+      2 Oncology: Lung, Non-Small Cell	Completed, Positive outcome/primary endpoint(s) met
+     22 Oncology: Lung, Non-Small Cell	None
+      2 Oncology: Lung, Non-Small Cell	Terminated, Business decision - Drug strategy shift
+      1 Oncology: Lung, Non-Small Cell	Terminated, Business decision - Other
+      1 Oncology: Lung, Non-Small Cell	Terminated, Business decision - Other; Terminated, Planned but never initiated
+      1 Oncology: Lung, Non-Small Cell	Terminated, Lack of efficacy
+      2 Oncology: Lung, Non-Small Cell	Terminated, Other
+      1 Oncology: Lung, Non-Small Cell	Terminated, Planned but never initiated; Terminated, Unknown
+      1 Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Neuroendocrine	Completed, Outcome indeterminate
+      1 Oncology: Lung, Non-Small Cell; Oncology: Lung, Small Cell; Oncology: Neuroendocrine	None
+      1 Oncology: Lung, Non-Small Cell; Oncology: Melanoma	None
+      1 Oncology: Lung, Non-Small Cell; Oncology: Melanoma; Oncology: Unspecified Solid Tumor	Completed, Outcome indeterminate
+      1 Oncology: Lung, Non-Small Cell; Oncology: Mesothelioma	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Lung, Non-Small Cell; Oncology: Pancreas	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Lung, Non-Small Cell; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Lung, Non-Small Cell; Oncology: Unspecified Solid Tumor	Terminated, Business decision - Other; Terminated, Planned but never initiated
+      1 Oncology: Lung, Small Cell	None
+      2 Oncology: Lung, Small Cell; Oncology: Neuroendocrine	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: Lung, Small Cell; Oncology: Neuroendocrine	Completed, Outcome indeterminate
+      1 Oncology: Lung, Small Cell; Oncology: Neuroendocrine	Completed, Outcome unknown
+      7 Oncology: Lung, Small Cell; Oncology: Neuroendocrine	None
+      1 Oncology: Lung, Small Cell; Oncology: Neuroendocrine	Terminated, Business decision - Other; Terminated, Poor enrollment
+      1 Oncology: Lung, Small Cell; Oncology: Neuroendocrine	Terminated, Planned but never initiated; Terminated, Poor enrollment
+      1 Oncology: Lung, Small Cell; Oncology: Neuroendocrine	Terminated, Poor enrollment
+      1 Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Pancreas; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Unspecified Solid Tumor	Completed, Outcome indeterminate
+      1 Oncology: Lung, Small Cell; Oncology: Neuroendocrine; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's	Completed, Outcome unknown
+      3 Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's	None
+      1 Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Multiple Myeloma	None
+      1 Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Lymphoma, Hodgkin's; Oncology: Lymphoma, Non-Hodgkin's; Oncology: Unspecified Solid Tumor	Terminated, Poor enrollment
+      1 Oncology: Lymphoma, Non-Hodgkin's	Completed, Early positive outcome
+      7 Oncology: Lymphoma, Non-Hodgkin's	Completed, Negative outcome/primary endpoint(s) not met
+      5 Oncology: Lymphoma, Non-Hodgkin's	Completed, Outcome indeterminate
+      7 Oncology: Lymphoma, Non-Hodgkin's	Completed, Outcome unknown
+     21 Oncology: Lymphoma, Non-Hodgkin's	Completed, Positive outcome/primary endpoint(s) met
+     75 Oncology: Lymphoma, Non-Hodgkin's	None
+      1 Oncology: Lymphoma, Non-Hodgkin's	Terminated, Business decision - Pipeline reprioritization
+      1 Oncology: Lymphoma, Non-Hodgkin's	Terminated, Lack of efficacy
+      1 Oncology: Lymphoma, Non-Hodgkin's	Terminated, Lack of funding
+      1 Oncology: Lymphoma, Non-Hodgkin's	Terminated, Lack of funding; Terminated, Planned but never initiated
+      1 Oncology: Lymphoma, Non-Hodgkin's	Terminated, Other; Terminated, Planned but never initiated
+      3 Oncology: Lymphoma, Non-Hodgkin's	Terminated, Planned but never initiated; Terminated, Unknown
+      4 Oncology: Lymphoma, Non-Hodgkin's	Terminated, Poor enrollment
+      1 Oncology: Lymphoma, Non-Hodgkin's; Oncology: Multiple Myeloma; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Lymphoma, Non-Hodgkin's; Oncology: Pancreas; Oncology: Unspecified Solid Tumor	Terminated, Other; Terminated, Planned but never initiated
+      1 Oncology: Melanoma	Completed, Outcome indeterminate
+      1 Oncology: Melanoma	Completed, Outcome unknown
+      6 Oncology: Melanoma	None
+      1 Oncology: Melanoma	Terminated, Business decision - Other
+      2 Oncology: Mesothelioma	None
+      1 Oncology: Mesothelioma; Oncology: Primary Peritoneal	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: Metastatic Cancer; Oncology: Prostate	Terminated, Business decision - Other
+      2 Oncology: Metastatic Cancer; Oncology: Unspecified Solid Tumor	None
+      3 Oncology: Multiple Myeloma	Completed, Outcome indeterminate
+      4 Oncology: Multiple Myeloma	Completed, Outcome unknown
+     21 Oncology: Multiple Myeloma	Completed, Positive outcome/primary endpoint(s) met
+     19 Oncology: Multiple Myeloma	None
+      3 Oncology: Multiple Myeloma	Terminated, Business decision - Other
+      1 Oncology: Multiple Myeloma	Terminated, Business decision - Other; Terminated, Planned but never initiated
+      1 Oncology: Multiple Myeloma	Terminated, Lack of efficacy
+      1 Oncology: Multiple Myeloma	Terminated, Other
+      1 Oncology: Multiple Myeloma	Terminated, Other; Terminated, Planned but never initiated
+      2 Oncology: Multiple Myeloma	Terminated, Planned but never initiated; Terminated, Unknown
+      1 Oncology: Multiple Myeloma	Terminated, Poor enrollment
+      1 Oncology: Multiple Myeloma	Terminated, Safety/adverse effects
+      1 Oncology: Myelodysplastic Syndrome	Completed, Positive outcome/primary endpoint(s) met
+      2 Oncology: Myelodysplastic Syndrome	None
+      1 Oncology: Myelodysplastic Syndrome	Terminated, Planned but never initiated; Terminated, Unknown
+      1 Oncology: Neuroblastoma	Completed, Positive outcome/primary endpoint(s) met
+      3 Oncology: Neuroblastoma	None
+      1 Oncology: Neuroblastoma; Oncology: Osteosarcoma; Oncology: Renal; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Neuroendocrine	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Neuroendocrine; Oncology: Prostate	Completed, Negative outcome/primary endpoint(s) not met
+      1 Oncology: Neuroendocrine; Oncology: Prostate	None
+      1 Oncology: Osteosarcoma; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Ovarian	Completed, Negative outcome/primary endpoint(s) not met
+      3 Oncology: Ovarian	Completed, Outcome unknown
+      3 Oncology: Ovarian	Completed, Positive outcome/primary endpoint(s) met
+      7 Oncology: Ovarian	None
+      1 Oncology: Ovarian; Oncology: Testicular	Completed, Outcome unknown
+      1 Oncology: Ovarian; Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      1 Oncology: Ovarian; Oncology: Unspecified Solid Tumor	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Ovarian; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Ovarian; Oncology: Unspecified Solid Tumor	Terminated, Business decision - Pipeline reprioritization
+      2 Oncology: Pancreas	Completed, Negative outcome/primary endpoint(s) not met
+      2 Oncology: Pancreas	Completed, Outcome indeterminate
+      3 Oncology: Pancreas	Completed, Outcome unknown
+      6 Oncology: Pancreas	Completed, Positive outcome/primary endpoint(s) met
+     16 Oncology: Pancreas	None
+      1 Oncology: Pancreas	Terminated, Business decision - Pipeline reprioritization
+      1 Oncology: Pancreas	Terminated, Lack of efficacy; Terminated, Lack of funding; Terminated, Safety/adverse effects
+      1 Oncology: Pancreas	Terminated, Safety/adverse effects
+      1 Oncology: Pancreas; Oncology: Unspecified Solid Tumor	Completed, Positive outcome/primary endpoint(s) met
+      1 Oncology: Pancreas; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Pancreas; Oncology: Unspecified Solid Tumor	Terminated, Poor enrollment
+      1 Oncology: Prostate	Completed, Early positive outcome
+      2 Oncology: Prostate	Completed, Outcome indeterminate
+      4 Oncology: Prostate	Completed, Outcome unknown
+      6 Oncology: Prostate	Completed, Positive outcome/primary endpoint(s) met
+     35 Oncology: Prostate	None
+      1 Oncology: Prostate	Terminated, Business decision - Other
+      1 Oncology: Prostate	Terminated, Poor enrollment
+      1 Oncology: Prostate	Terminated, Unknown
+      3 Oncology: Prostate; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Renal	Completed, Outcome indeterminate
+      4 Oncology: Renal	None
+      1 Oncology: Renal; Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Cancer	None
+      2 Oncology: Soft Tissue Sarcoma	Completed, Outcome indeterminate
+      1 Oncology: Soft Tissue Sarcoma	Completed, Outcome unknown
+      1 Oncology: Soft Tissue Sarcoma	Completed, Positive outcome/primary endpoint(s) met
+      5 Oncology: Soft Tissue Sarcoma	None
+      1 Oncology: Soft Tissue Sarcoma	Terminated, Planned but never initiated; Terminated, Unknown
+      1 Oncology: Soft Tissue Sarcoma; Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Testicular	Completed, Negative outcome/primary endpoint(s) not met
+      4 Oncology: Unspecified Cancer	None
+      1 Oncology: Unspecified Hematological Cancer	None
+      1 Oncology: Unspecified Solid Tumor	Completed, Negative outcome/primary endpoint(s) not met
+      2 Oncology: Unspecified Solid Tumor	Completed, Outcome indeterminate
+      2 Oncology: Unspecified Solid Tumor	Completed, Outcome unknown
+      1 Oncology: Unspecified Solid Tumor	Completed, Positive outcome/primary endpoint(s) met
+     19 Oncology: Unspecified Solid Tumor	None
+      1 Oncology: Unspecified Solid Tumor	Terminated, Poor enrollment
+      1 Oncology: Unspecified Solid Tumor	Terminated, Unknown
